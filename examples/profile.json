@@ -1,0 +1,16 @@
+{
+  "skills": [
+    "AutoCAD",
+    "Altium Designer",
+    "Python",
+    "Excel",
+    "Google Sheets",
+    "Technical Writing",
+    "Technical Drawings",
+    "Cisco Packet Tracer",
+    "HTML",
+    "English"
+  ],
+  "stop_keywords": ["cold calling", "call center", "sales targets"],
+  "min_salary_usd": null
+}

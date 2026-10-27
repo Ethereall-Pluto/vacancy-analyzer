@@ -1,0 +1,16 @@
+Junior CAD Drafter (Electrical)
+
+We are a small engineering studio preparing electrical drawings for residential projects.
+
+Requirements:
+- 1+ year of experience with AutoCAD
+- Experience with Revit MEP
+- Ability to read electrical schematics
+- English at Intermediate level or higher
+
+Nice to have:
+- Python scripting for automating drawing tasks
+- Experience with BIM workflows
+
+We offer: fully remote work, $700-900 per month, flexible hours.
+Before the interview, candidates complete a test drawing (4-6 hours, not paid).
